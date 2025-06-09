@@ -138,12 +138,6 @@ Contributions are welcome! Please fork the repository, make your updates or bug 
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
-
----
-
 ## Resources & Acknowledgements
 
 - **Flask Documentation:** https://flask.palletsprojects.com/  
