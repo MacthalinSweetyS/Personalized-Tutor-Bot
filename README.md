@@ -1,3 +1,5 @@
+---
+---
 # Personalized Tutor Bot
 
 **Personalized Tutor Bot** is an AI-powered interactive learning platform that helps users assess their learning capacity, create personalized career goals, and receive detailed performance feedback through adaptive quizzes and intelligent study plans.
@@ -94,7 +96,7 @@
 
    In **app.py**, replace the placeholder:
    ```python
-   openai.api_key = "sk-or-v1-dff1e"
+   openai.api_key = "use your personla api key(such as from deepseek v2 rover)"
    ```
    with your valid API key.
 
@@ -150,3 +152,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://op
 - **Tippy.js:** https://atomiks.github.io/tippyjs/  
 
 Special thanks to the open source community for their support and inspiration.
+
+---
+---
